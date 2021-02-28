@@ -1,2 +1,3 @@
 # hello-world
-Assignment 1 for CSE 360
+CSE 360 Hello World git Assignment 1  
+Caitlin O'Malley  
